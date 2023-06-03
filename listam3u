@@ -1,0 +1,362 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="B15.mx" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General",B15 (1080p)
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Culture;Education",Canal Catorce (XHSPR-TDT1) (720p)
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",Estrella TV (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Undefined",Hipódromo de las Américas (480p) [Geo-blocked]
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas (1080p)
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoboTV.mx" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Undefined",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Milenio Televisión Noroeste (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="News",NMás (1080p) [Geo-blocked]
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="NPlusMedia.mx" tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="Undefined",NMás Media (1080p) [Geo-blocked]
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Undefined",RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-logo="https://i.imgur.com/jYMpVQA.png" group-title="Undefined",Transmedia Televisión Morelia (614p) [Not 24/7]
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Undefined",Anzoátegui TV (360p)
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertainment",Aventuras TV (360p)
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV
+https://servilive.com:3079/live/cdnatvlive.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="Undefined",Caracola TV (Peñalolén) (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entertainment",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV * | MX
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="657" tvg-name="15TV Sabinas" tvg-logo="https://lh3.googleusercontent.com/-qjB3qbIAv50/XzgmYBza-8I/AAAAAAAA4Zs/HJvLB653vUsZhdzVWpX1ClIAVV7P9KexQCK8BGAsYHg/s0/2020-08-15.png", 15TV Sabinas | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="663" tvg-name="Canal 4 Saltillo" tvg-logo="https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png", Canal 4 Saltillo | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://i2.paste.pics/35f81059c6d91f6bd01a664ebc0c5aa2.png", Mexiquense TV | MX
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios CDMX | MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png", RCG 1 Saltillo | MX
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="675" tvg-name="RCG 3 Saltillo" tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png", RCG 3 Saltillo | MX
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png", SIZART Canal 24 Zacatecas | MX
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://i2.paste.pics/650655e93128d58811d51cd25e5453d5.png", Teleritmo | MX
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="656" tvg-name="TV4 Noticias" tvg-logo="https://i2.paste.pics/6923b601da7aec626264ba63bcaeba5f.png", TV4 Noticias | MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ActivaTV.hn" tvg-logo="https://i.imgur.com/S69lDu4.png" group-title="General",Activa TV (720p)
+https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Undefined",ATN Televisión (Cúcuta | Norte de Santander) (640p)
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="Undefined",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Undefined",Bellavisión (1080p)
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Undefined",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",Cablenoticias (Bogotà | Cundinamarca) (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Undefined",Canal 9 Barbe TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/103
+
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (1080p)
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CTVCanal76.do" tvg-logo="https://i.imgur.com/nLRLsPn.png" group-title="General",CTV Canal 76 (720p)
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" grupo -title="México",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Argentina",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Argentina",SEO TV (1080p)
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Argentina",SEO TV Películas (1080p)
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="Argentina",Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Argentina",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Argentina",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Argentina",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Argentina",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Argentina",Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Argentina",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Chile",Retro Plus 2 HD (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Chile",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1,Puerto Rico-Telemundo Puerto Rico
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51540
+
+#EXTINF:-1,24H | Paw Patrol
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67744
+
+#EXTINF:-1,24H | Dinosaurios
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67753
+
+#EXTINF:-1,24H | Dragon Ball Z
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67754
+
+#EXTINF:-1,24H | Batman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67758
+
+#EXTINF:-1,24H Kids | BOB ESPONJA (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67769
+
+#EXTINF:-1,24H Kids | Dragon Ball Z kai
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67770
+
+#EXTINF:-1,24/7 El Show de Bugs Bunny
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67788
+
+#EXTINF:-1,24/7 Ben 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67790
+
+#EXTINF:-1,24/7 Futurama
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67796
+
+#EXTINF:-1,24H | Dragon Ball GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67806
+
+#EXTINF:-1,24H | Dragon Ball Z
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67807
+
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67808
+
+#EXTINF:-1,24H | Los Caballeros del  Zodiaco
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67822
+
+#EXTINF:-1,24H | Dragon Ball Super
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67828
+
+#EXTINF:-1,UNIVISION AUSTIN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71279
+
+#EXTINF:-1,24H | Canal PPV 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170887
+
+#EXTINF:-1,24/7 Saga Spiderman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170902
+
+#EXTINF:-1,MC Pop Hits
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173898
+
+#EXTINF:-1,MC Pop Latino
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173909
+
+#EXTINF:-1,LA..Cine Accion
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12271
+
+#EXTINF:-1,LA..Cine Ficcion/Fantasia 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12277
+
+#EXTINF:-1,LA..Cine Ficcion/Fantasia 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12278
+
+#EXTINF:-1,LA..Cine Ficcion/Fantasia HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12279
+
+#EXTINF:-1,LA..Cine Ficcion/Fantasia Sagas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12280
+
+#EXTINF:-1,LA..Cine Infantil
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12281
+
+#EXTINF:-1,LA..Cine Infantil HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12282
+
+#EXTINF:-1,LA..Cine Infantil Sagas HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12284
+
+#EXTINF:-1,LA..Cine Marvel
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12286
+
+#EXTINF:-1,LA..Cine Terror
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12290
+
+#EXTINF:-1,PPV EVENTOS 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/54429
+
+#EXTINF:-1,PPV EVENTOS 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/55670
+
+#EXTINF:-1,ES: NAT GEO HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38084
+
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38085
+
+#EXTINF:-1,ES:LA LIGA 2 TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38109
+
+#EXTINF:-1,ES: LA LIGA TV HD BAR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38111
+
+#EXTINF:-1,ES:MOVISTAR DEPORTES HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38112
+
+#EXTINF:-1,PPV EVENTOS 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163506
+
+#EXTINF:-1,Opcion 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163844
+
+#EXTINF:-1,OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165574
+
+#EXTINF:-1,OP1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165578
+
+#EXTINF:-1,OP3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165571
+
+#EXTINF:-1,OP4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165563
+
+#EXTINF:-1,OP7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165579
+
+#EXTINF:-1,OP6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165562
+
+#EXTINF:-1,OP5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173119
+
+#EXTINF:-1,OP8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165577
+
+#EXTINF:-1,OP3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165644
+
+#EXTINF:-1,OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/167367
+
+#EXTINF:-1,OP4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165569
+
+#EXTINF:-1,OP6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165573
+
+#EXTINF:-1,Mundial SUb-20 (1)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178831
+
+#EXTINF:-1,Mundial SUb-20 (2)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178832
+
+#EXTINF:-1,MUNDIAL SUB-20 - UNIVERSO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178842
